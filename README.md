@@ -1,2 +1,3 @@
 Introduction to javascript
-A basic arithmetic calculator without a frontend
+
+This is a basic arithmetic calculator without a frontend
